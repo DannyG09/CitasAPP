@@ -2,7 +2,7 @@
 
 namespace CitasApp.Domain.Repositories
 {
-    interface IPagoRepository
+    public interface IPagoRepository
     {
     }
 }

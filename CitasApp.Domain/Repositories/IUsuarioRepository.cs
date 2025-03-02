@@ -1,7 +1,7 @@
 ﻿
 namespace CitasApp.Domain.Repositories
 {
-    interface IUsuarioRepository
+    public interface IUsuarioRepository
     {
     }
 }
